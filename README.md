@@ -13,6 +13,7 @@ Enjoy and I hope you like it.
 * Javascript
 * API
 * Node.js
+* NPM
 
 
 # Learning points
