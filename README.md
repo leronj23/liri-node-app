@@ -4,7 +4,7 @@ Search for your favorite band and see when and where they will be performing.
 Search for any song on Spotify and get a link directly to that song.
 Search for any movie and get specific details about it.
 
-All this powered by Node.js.
+All this is powered by Node.js.
 
 Enjoy and I hope you like it.
 
