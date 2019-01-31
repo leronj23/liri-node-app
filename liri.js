@@ -68,6 +68,7 @@ function bandsInTownAPI() {
     });
 }
 
+// Run the Spotify API
 function spotifyAPI() {
 
   inquirer.prompt([
@@ -79,36 +80,54 @@ function spotifyAPI() {
   ]).then(function (user) {
 
     var spotify = new Spotify(keys.spotify);
-    spotify.search({ type: 'track', query: user.song }, function (err, data) {
+    spotify.search({ type: 'track', query: user.song, limit: 20 }, function (err, data) {
       if (err) {
         return console.log('Error occurred: ' + err);
       }
 
-      console.log(JSON.stringify(data, null, 2));
+      if (data.tracks.items.length === 0){
+
+        console.log("Artist:", "Ace of Base");
+        console.log("Song Name:", "The Sign");
+        console.log("Link:", "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE");
+        console.log("Album:", "The Sign (US Album) [Remastered]");
+      }
+
+      data.tracks.items.forEach(element => {
+        console.log("\n");
+        
+        console.log("Artist:", element.artists[0].name);
+        console.log("Song Name:", element.name);
+        console.log("Link:", element.external_urls.spotify);
+        console.log("Album:", element.album.name);
+      });
+
+
+      //console.log(JSON.stringify(data, null, 2));
     })
 
 
 
 
-    axios.get("https://rest.bandsintown.com/artists/" + user.name + "/events?app_id=codingbootcamp").then(
-      function (response) {
+    // axios.get("https://rest.bandsintown.com/artists/" + user.name + "/events?app_id=codingbootcamp").then(
+    //   function (response) {
 
-        response.data.forEach(element => {
-          console.log("\n");
+    //     response.data.forEach(element => {
+    //       console.log("\n");
 
-          console.log("Name of the venue:", element.venue.name);
-          if (element.venue.region === "") {
-            console.log("Venue location:", element.venue.city + ", " + element.venue.country);
-          }
-          else {
-            console.log("Venue location:", element.venue.city + ", " + element.venue.region);
-          }
-          var date = moment(element.datetime).format('MM/DD/YYYY');
-          console.log("Date of the Event:", date);
-          console.log("=============================")
-        });
-      }
-    );
+    //       console.log("Name of the venue:", element.venue.name);
+    //       if (element.venue.region === "") {
+    //         console.log("Venue location:", element.venue.city + ", " + element.venue.country);
+    //       }
+    //       else {
+    //         console.log("Venue location:", element.venue.city + ", " + element.venue.region);
+    //       }
+    //       var date = moment(element.datetime).format('MM/DD/YYYY');
+    //       console.log("Date of the Event:", date);
+    //       console.log("=============================")
+    //     });
+    //   }
+    // );
   })
     .catch(function (error) {
       console.log(error);
