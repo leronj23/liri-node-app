@@ -280,7 +280,7 @@ function didLast() {
 
     var dataRecived = data.split(",");
 
-    console.log(dataRecived)
+    //console.log(dataRecived)
 
     if (dataRecived[0] === 'concert-this') {
       sendBandInTownAPI(dataRecived[1])
