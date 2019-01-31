@@ -8,6 +8,7 @@ All this is powered by Node.js.
 
 Enjoy and I hope you like it.
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://github.com/leronj23/liri-node-app/blob/master/video/Liri%20video.mov)
 
 # Technology used
 * Javascript
