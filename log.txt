@@ -489,3 +489,725 @@
           Actors in the movie: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
 
           =============================
+
+              Name of the venue: Ottobar
+
+              Venue location: Baltimore, MD
+
+              Date of the Event: 02/01/2019
+
+              =============================
+
+              Name of the venue: Zu-Bar
+
+              Venue location: Tokyo, Japan
+
+              Date of the Event: 02/02/2019
+
+              =============================
+
+              Name of the venue: Royal Theatre Of Mons
+
+              Venue location: Mons, Belgium
+
+              Date of the Event: 04/18/2019
+
+              =============================
+
+              Name of the venue: Kalmarsalen
+
+              Venue location: Kalmar, Sweden
+
+              Date of the Event: 10/04/2019
+
+              =============================
+
+              Name of the venue: Konserthusteatern
+
+              Venue location: Karlskrona, Sweden
+
+              Date of the Event: 10/05/2019
+
+              =============================
+
+              Name of the venue: Växjö Konserthus
+
+              Venue location: Vaxjo, Sweden
+
+              Date of the Event: 10/06/2019
+
+              =============================
+
+              Name of the venue: Åhaga, Borås
+
+              Venue location: Boras, Sweden
+
+              Date of the Event: 10/11/2019
+
+              =============================
+
+              Name of the venue: Halmstads Teater
+
+              Venue location: Halmstad, Sweden
+
+              Date of the Event: 10/18/2019
+
+              =============================
+
+              Name of the venue: Slagthuset
+
+              Venue location: Malmö, Sweden
+
+              Date of the Event: 10/19/2019
+
+              =============================
+
+              Name of the venue: Jönköpings Konserthus Elmia #2
+
+              Venue location: Jonkoping, Sweden
+
+              Date of the Event: 10/25/2019
+
+              =============================
+
+              Name of the venue: Linköping Konsert & Kongress
+
+              Venue location: Linköping, Sweden
+
+              Date of the Event: 10/26/2019
+
+              =============================
+
+              Name of the venue: Linköping Konsert & Kongress
+
+              Venue location: Linköping, Sweden
+
+              Date of the Event: 10/27/2019
+
+              =============================
+
+              Name of the venue: China teatern
+
+              Venue location: Stockholm, Sweden
+
+              Date of the Event: 10/30/2019
+
+              =============================
+
+              Name of the venue: Gävle Konserthus
+
+              Venue location: Gävle, Sweden
+
+              Date of the Event: 11/01/2019
+
+              =============================
+
+              Name of the venue: Kulturens hus - Stora salen
+
+              Venue location: Lulea, Sweden
+
+              Date of the Event: 11/08/2019
+
+              =============================
+
+              Name of the venue: Vävenscenen
+
+              Venue location: Umea, Sweden
+
+              Date of the Event: 11/09/2019
+
+              =============================
+
+              Name of the venue: SCALATEATERN KARLSTAD
+
+              Venue location: Karlstad, Sweden
+
+              Date of the Event: 11/15/2019
+
+              =============================
+
+              Name of the venue: Örebro Konserthus
+
+              Venue location: Örebro, Sweden
+
+              Date of the Event: 11/16/2019
+
+              =============================
+
+              Name of the venue: Västerås Konserthus
+
+              Venue location: Västerås, Sweden
+
+              Date of the Event: 11/17/2019
+
+              =============================
+
+              Name of the venue: De Geerhallen
+
+              Venue location: Norrkoping, Sweden
+
+              Date of the Event: 11/22/2019
+
+              =============================
+
+              Name of the venue: De Geerhallen
+
+              Venue location: Norrkoping, Sweden
+
+              Date of the Event: 11/23/2019
+
+              =============================
+
+          Artist: Cardi B
+
+          Song Name: Money
+
+          Link: https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e
+
+          Album: Money
+
+          =============================
+
+          Artist: Lil Uzi Vert
+
+          Song Name: Money Longer
+
+          Link: https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ
+
+          Album: Lil Uzi Vert Vs. The World
+
+          =============================
+
+          Artist: Pink Floyd
+
+          Song Name: Money
+
+          Link: https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb
+
+          Album: The Dark Side of the Moon
+
+          =============================
+
+          Artist: Post Malone
+
+          Song Name: Money Made Me Do It
+
+          Link: https://open.spotify.com/track/1ysAvOdJgUjc6CqOQxepaz
+
+          Album: Stoney (Deluxe)
+
+          =============================
+
+          Artist: Rihanna
+
+          Song Name: Bitch Better Have My Money
+
+          Link: https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq
+
+          Album: Bitch Better Have My Money
+
+          =============================
+
+          Artist: Kendrick Lamar
+
+          Song Name: Money Trees
+
+          Link: https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4
+
+          Album: good kid, m.A.A.d city
+
+          =============================
+
+          Artist: Cardi B
+
+          Song Name: Money Bag
+
+          Link: https://open.spotify.com/track/1vBeIXlzbAieGoDqInav5j
+
+          Album: Invasion of Privacy
+
+          =============================
+
+          Artist: Lil Dicky
+
+          Song Name: $ave Dat Money (feat. Fetty Wap & Rich Homie Quan)
+
+          Link: https://open.spotify.com/track/6AoYWCzsDls6c61Zp5qTuU
+
+          Album: Professional Rapper
+
+          =============================
+
+          Artist: Lil Skies
+
+          Song Name: Big Money
+
+          Link: https://open.spotify.com/track/3i5h463CsDCWV13a25RgEO
+
+          Album: Life of a Dark Rose
+
+          =============================
+
+          Artist: Kevin Gates
+
+          Song Name: Money Long
+
+          Link: https://open.spotify.com/track/4eUsMWZO1Dpc0lQp4JsKXa
+
+          Album: Luca Brasi 3
+
+          =============================
+
+          Artist: Young Money
+
+          Song Name: BedRock
+
+          Link: https://open.spotify.com/track/3iL2l5gUqyPS6vDwJFgJTR
+
+          Album: We Are Young Money
+
+          =============================
+
+          Artist: Meek Mill
+
+          Song Name: R.I.C.O. (feat. Drake)
+
+          Link: https://open.spotify.com/track/0Y0TOsE1q11qgbi7c5WZsG
+
+          Album: Dreams Worth More Than Money
+
+          =============================
+
+          Artist: Kendrick Lamar
+
+          Song Name: Money Trees
+
+          Link: https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o
+
+          Album: good kid, m.A.A.d city (Deluxe)
+
+          =============================
+
+          Artist: Galantis
+
+          Song Name: No Money
+
+          Link: https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd
+
+          Album: No Money
+
+          =============================
+
+          Artist: Young Money
+
+          Song Name: Trophies
+
+          Link: https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk
+
+          Album: Rise Of An Empire (Deluxe Edition)
+
+          =============================
+
+          Artist: BØRNS
+
+          Song Name: American Money
+
+          Link: https://open.spotify.com/track/4AewKenHXKBt643p473xCk
+
+          Album: Dopamine
+
+          =============================
+
+          Artist: Meek Mill
+
+          Song Name: All Eyes on You (feat. Chris Brown & Nicki Minaj)
+
+          Link: https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr
+
+          Album: Dreams Worth More Than Money
+
+          =============================
+
+          Artist: Steve Miller Band
+
+          Song Name: Take The Money And Run
+
+          Link: https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu
+
+          Album: Fly Like An Eagle
+
+          =============================
+
+          Artist: Dire Straits
+
+          Song Name: Money For Nothing
+
+          Link: https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR
+
+          Album: Brothers In Arms
+
+          =============================
+
+          Artist: The Notorious B.I.G.
+
+          Song Name: Mo Money Mo Problems (feat. Mase & Puff Daddy) - 2014 Remastered Version
+
+          Link: https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz
+
+          Album: Life After Death (Remastered Edition)
+
+          =============================
+
+          Title of the movie: Money
+
+          Year the movie came out: 2016
+
+          IMDB Rating of the movie: 5.6
+
+          Rotten Tomatoes Rating of the movie: Not Available
+
+          Country where the movie was produced: USA, Spain
+
+          Language of the movie: English
+
+          Plot of the movie: Two wealthy businessmen are about to get away with $5 million in ill-gotten money until their plans are revealed by an uninvited house guest.
+
+          Actors in the movie: Jesse Williams, Kellan Lutz, Jamie Bamber, Jess Weixler
+
+          =============================
+
+              Name of the venue: Ottobar
+
+              Venue location: Baltimore, MD
+
+              Date of the Event: 02/01/2019
+
+              =============================
+
+              Name of the venue: Zu-Bar
+
+              Venue location: Tokyo, Japan
+
+              Date of the Event: 02/02/2019
+
+              =============================
+
+              Name of the venue: Royal Theatre Of Mons
+
+              Venue location: Mons, Belgium
+
+              Date of the Event: 04/18/2019
+
+              =============================
+
+              Name of the venue: Kalmarsalen
+
+              Venue location: Kalmar, Sweden
+
+              Date of the Event: 10/04/2019
+
+              =============================
+
+              Name of the venue: Konserthusteatern
+
+              Venue location: Karlskrona, Sweden
+
+              Date of the Event: 10/05/2019
+
+              =============================
+
+              Name of the venue: Växjö Konserthus
+
+              Venue location: Vaxjo, Sweden
+
+              Date of the Event: 10/06/2019
+
+              =============================
+
+              Name of the venue: Åhaga, Borås
+
+              Venue location: Boras, Sweden
+
+              Date of the Event: 10/11/2019
+
+              =============================
+
+              Name of the venue: Halmstads Teater
+
+              Venue location: Halmstad, Sweden
+
+              Date of the Event: 10/18/2019
+
+              =============================
+
+              Name of the venue: Slagthuset
+
+              Venue location: Malmö, Sweden
+
+              Date of the Event: 10/19/2019
+
+              =============================
+
+              Name of the venue: Jönköpings Konserthus Elmia #2
+
+              Venue location: Jonkoping, Sweden
+
+              Date of the Event: 10/25/2019
+
+              =============================
+
+              Name of the venue: Linköping Konsert & Kongress
+
+              Venue location: Linköping, Sweden
+
+              Date of the Event: 10/26/2019
+
+              =============================
+
+              Name of the venue: Linköping Konsert & Kongress
+
+              Venue location: Linköping, Sweden
+
+              Date of the Event: 10/27/2019
+
+              =============================
+
+              Name of the venue: China teatern
+
+              Venue location: Stockholm, Sweden
+
+              Date of the Event: 10/30/2019
+
+              =============================
+
+              Name of the venue: Gävle Konserthus
+
+              Venue location: Gävle, Sweden
+
+              Date of the Event: 11/01/2019
+
+              =============================
+
+              Name of the venue: Kulturens hus - Stora salen
+
+              Venue location: Lulea, Sweden
+
+              Date of the Event: 11/08/2019
+
+              =============================
+
+              Name of the venue: Vävenscenen
+
+              Venue location: Umea, Sweden
+
+              Date of the Event: 11/09/2019
+
+              =============================
+
+              Name of the venue: SCALATEATERN KARLSTAD
+
+              Venue location: Karlstad, Sweden
+
+              Date of the Event: 11/15/2019
+
+              =============================
+
+              Name of the venue: Örebro Konserthus
+
+              Venue location: Örebro, Sweden
+
+              Date of the Event: 11/16/2019
+
+              =============================
+
+              Name of the venue: Västerås Konserthus
+
+              Venue location: Västerås, Sweden
+
+              Date of the Event: 11/17/2019
+
+              =============================
+
+              Name of the venue: De Geerhallen
+
+              Venue location: Norrkoping, Sweden
+
+              Date of the Event: 11/22/2019
+
+              =============================
+
+              Name of the venue: De Geerhallen
+
+              Venue location: Norrkoping, Sweden
+
+              Date of the Event: 11/23/2019
+
+              =============================
+
+              Name of the venue: Ottobar
+
+              Venue location: Baltimore, MD
+
+              Date of the Event: 02/01/2019
+
+              =============================
+
+              Name of the venue: Zu-Bar
+
+              Venue location: Tokyo, Japan
+
+              Date of the Event: 02/02/2019
+
+              =============================
+
+              Name of the venue: Royal Theatre Of Mons
+
+              Venue location: Mons, Belgium
+
+              Date of the Event: 04/18/2019
+
+              =============================
+
+              Name of the venue: Kalmarsalen
+
+              Venue location: Kalmar, Sweden
+
+              Date of the Event: 10/04/2019
+
+              =============================
+
+              Name of the venue: Konserthusteatern
+
+              Venue location: Karlskrona, Sweden
+
+              Date of the Event: 10/05/2019
+
+              =============================
+
+              Name of the venue: Växjö Konserthus
+
+              Venue location: Vaxjo, Sweden
+
+              Date of the Event: 10/06/2019
+
+              =============================
+
+              Name of the venue: Åhaga, Borås
+
+              Venue location: Boras, Sweden
+
+              Date of the Event: 10/11/2019
+
+              =============================
+
+              Name of the venue: Halmstads Teater
+
+              Venue location: Halmstad, Sweden
+
+              Date of the Event: 10/18/2019
+
+              =============================
+
+              Name of the venue: Slagthuset
+
+              Venue location: Malmö, Sweden
+
+              Date of the Event: 10/19/2019
+
+              =============================
+
+              Name of the venue: Jönköpings Konserthus Elmia #2
+
+              Venue location: Jonkoping, Sweden
+
+              Date of the Event: 10/25/2019
+
+              =============================
+
+              Name of the venue: Linköping Konsert & Kongress
+
+              Venue location: Linköping, Sweden
+
+              Date of the Event: 10/26/2019
+
+              =============================
+
+              Name of the venue: Linköping Konsert & Kongress
+
+              Venue location: Linköping, Sweden
+
+              Date of the Event: 10/27/2019
+
+              =============================
+
+              Name of the venue: China teatern
+
+              Venue location: Stockholm, Sweden
+
+              Date of the Event: 10/30/2019
+
+              =============================
+
+              Name of the venue: Gävle Konserthus
+
+              Venue location: Gävle, Sweden
+
+              Date of the Event: 11/01/2019
+
+              =============================
+
+              Name of the venue: Kulturens hus - Stora salen
+
+              Venue location: Lulea, Sweden
+
+              Date of the Event: 11/08/2019
+
+              =============================
+
+              Name of the venue: Vävenscenen
+
+              Venue location: Umea, Sweden
+
+              Date of the Event: 11/09/2019
+
+              =============================
+
+              Name of the venue: SCALATEATERN KARLSTAD
+
+              Venue location: Karlstad, Sweden
+
+              Date of the Event: 11/15/2019
+
+              =============================
+
+              Name of the venue: Örebro Konserthus
+
+              Venue location: Örebro, Sweden
+
+              Date of the Event: 11/16/2019
+
+              =============================
+
+              Name of the venue: Västerås Konserthus
+
+              Venue location: Västerås, Sweden
+
+              Date of the Event: 11/17/2019
+
+              =============================
+
+              Name of the venue: De Geerhallen
+
+              Venue location: Norrkoping, Sweden
+
+              Date of the Event: 11/22/2019
+
+              =============================
+
+              Name of the venue: De Geerhallen
+
+              Venue location: Norrkoping, Sweden
+
+              Date of the Event: 11/23/2019
+
+              =============================

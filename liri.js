@@ -55,7 +55,7 @@ function sendBandInTownAPI(band) {
 
   if (band != "") {
 
-    axios.get("https://rest.bandsintown.com/artists/" + band + "/events?app_id=codingbootcamp").then(
+    axios.get(`https://rest.bandsintown.com/artists/${band}/events?app_id=${keys.bandInTown.api}`).then(
       function (response) {
 
         if (response.data.length === 0) {
@@ -203,7 +203,7 @@ function sendOmdbAPI(movie) {
 
   if (movie != "") {
 
-    axios.get(`http://www.omdbapi.com/?t=${movie}&y=&plot=short&apikey=trilogy`).then(
+    axios.get(`http://www.omdbapi.com/?t=${movie}&y=&plot=short&apikey=${keys.omdb.api}`).then(
       function (response) {
 
         if (response.data.Response === 'False') {
@@ -271,7 +271,6 @@ function sendOmdbAPI(movie) {
     console.log("=============================")
   }
 }
-
 
 
 // Run What I did last
