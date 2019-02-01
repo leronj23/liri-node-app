@@ -1,4 +1,4 @@
-# liri-node-app
+# Liri Node App
 
 Search for your favorite band and see when and where they will be performing.
 Search for any song on Spotify and get a link directly to that song.
