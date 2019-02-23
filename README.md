@@ -16,9 +16,3 @@ Enjoy and I hope you like it.
 * API
 * Node.js
 * NPM
-
-
-# Learning points
-* Apply ajax call to get API data
-* Use javascript along with  to add or change the desired behavior of web page.
-* A Spotify API, OMDB API, and a Band In Town API is needed for this app to work.
